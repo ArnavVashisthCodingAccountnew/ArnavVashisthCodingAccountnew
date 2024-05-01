@@ -18,3 +18,5 @@
 - <h3>GitHub Copilot Beta Tester<h3>
 
   <button> <a href="https://arnavvashisthcodingaccountnew.github.io/">Click Here to see my protofilo website</a> </button>
+
+  <p>P.S.: I HAVE BEEN PRETTY INACTIVE FOR A FEW DAYS....BUT THAT IS CHANGING</p>
