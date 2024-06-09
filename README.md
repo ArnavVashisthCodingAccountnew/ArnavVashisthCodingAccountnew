@@ -2,6 +2,7 @@
 ### This is Arnav Vashisth, winner of TIMES OF INDIA WORLDCODINGBEE Season 1,2 and a WhiteHatJr Student. 
 ### Certified by WhiteHatJr , doing since 3 years, PRO and ADV course.
 - <h1>BIG NEWS: I AM LAUNCHING VYASAGPT, a simple huggingpt style model by 15th June. See you at the finish line!</h1>
+<a href="https://app.daily.dev/arnavreality"><img src="https://api.daily.dev/devcards/v2/fHN0Z36Me7pECx5efWuTZ.png?r=6a2" width="356" alt="arnavReality's Dev Card"/></a>
 
 - Tools and Languages:
 - <img width="50px" height="45px" src="https://cdn-icons-png.flaticon.com/512/732/732212.png">     <img width="50px" height="45px" src="https://toppng.com/uploads/preview/html-css-js-icons-11563328364gmstz4ubs9.png">   <img width="50px" height="45px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfK6705woG79g0EvGpElN2KTgIS_0v8mKtttAu-tEu4S13THv7gKZrEHvh6I4_ph4_bPA&usqp=CAU">      <img width="50px" height="45px" src="https://www.pngitem.com/pimgs/m/452-4529269_ml5-js-logo-hd-png-download.png"> 
