@@ -19,6 +19,7 @@
 - <h3>2+ hours spent on Terraform & AWS<h3>
 - <h3>100+ hours spent on Firebase<h3>
 - <h3>GitHub Copilot Beta Tester<h3>
+- <h3>I am a github Student</h3>  
   <button> <a href="https://arnavvashisthcodingaccountnew.github.io/">Click Here to see my protofilo website</a> </button>
 
   <p>P.S.: I HAVE BEEN PRETTY INACTIVE FOR A FEW DAYS....BUT THAT IS CHANGING</p>
