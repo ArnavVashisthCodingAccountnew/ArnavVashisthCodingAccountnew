@@ -1,7 +1,6 @@
 ## Hi there 👋
 ### This is Arnav Vashisth, winner of TIMES OF INDIA WORLDCODINGBEE Season 1,2 and a WhiteHatJr Student. 
 ### Certified by WhiteHatJr , doing since 3 years, PRO and ADV course.
-- <h1>BIG NEWS: I AM LAUNCHING VYASAGPT, a simple huggingpt style model by 15th June. See you at the finish line!</h1>
 <a href="https://app.daily.dev/arnavreality"><img src="https://api.daily.dev/devcards/v2/fHN0Z36Me7pECx5efWuTZ.png?r=6a2" width="356" alt="arnavReality's Dev Card"/></a>
 
 - Tools and Languages:
@@ -20,6 +19,9 @@
 - <h3>100+ hours spent on Firebase<h3>
 - <h3>GitHub Copilot Beta Tester<h3>
 - <h3>I am a github Student</h3>  
+- <h3>I have won TOI WORLDCODINGBEE SEASON 1 AND 2 </h3>  
+- <h3>I have won #2 in advanced category at CodeDay Delhi@IIT Delhi, where 500+ students participated and they were from Grade 8th - College 1st year</h3>  
+
   <button> <a href="https://arnavvashisthcodingaccountnew.github.io/">Click Here to see my protofilo website</a> </button>
 
   <p>P.S.: I HAVE BEEN PRETTY INACTIVE FOR A FEW DAYS....BUT THAT IS CHANGING</p>
