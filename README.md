@@ -1,5 +1,5 @@
 ## Hi there 👋
-### This is Arnav Vashisth, winner of TIMES OF INDIA WORLDCODINGBEE Season 1,2 and a WhiteHatJr Student. 
+### This is Arnav Vashisth, winner of TIMES OF INDIA WORLDCODINGBEE Season 1,2, won #2 position in advanced category at CodeDay@IIT Delhi and a WhiteHatJr Student. 
 ### Certified by WhiteHatJr , doing since 3 years, PRO and ADV course.
 <a href="https://app.daily.dev/arnavreality"><img src="https://api.daily.dev/devcards/v2/fHN0Z36Me7pECx5efWuTZ.png?r=6a2" width="356" alt="arnavReality's Dev Card"/></a>
 
