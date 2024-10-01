@@ -10,6 +10,8 @@
 -    <img width="50px" height="45px" src="https://github.githubassets.com/images/icons/copilot/cp-head-square.png">
 
 - <h3>110+ Projects Completed</h3>
+- <h3>Good at Three.js</h3>
+
 - <h3>350+ hours spent on HTML<h3>
 - <h3>300+ hours spent on JS <h3>
 - <h3>97+ hours spent on Python <h3>
