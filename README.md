@@ -8,7 +8,8 @@ I am a **passionate technologist** with a proven track record of **innovation an
 ### 🌟 **Achievements**  
 - 🏆 **Two-time winner** of the **TIMES OF INDIA WORLDCODINGBEE** (Seasons 1 & 2).  
 - 🥈 Secured **#2 position in the Advanced category** at **CodeDay @ IIT Delhi**.  
-- 🥈 Achieved **2nd place** in the **Build: Hackathon (Exun 2024)**.  
+- 🥈 Achieved **2nd place** in the **Build: Hackathon (Exun 2024)**.
+- 🖥️ Trainee at CORE, computer club of DPS Dwarka
 
 ---
 
