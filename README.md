@@ -121,3 +121,17 @@ I am a **passionate technologist** with a proven track record of **innovation an
     <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ArnavVashisthCodingAccountnew&repo=ProjectDigiLibrary&title_color=0891b2&text_color=0f172a&icon_color=0891b2&bg_color=ffffff&hide_border=true&locale=en" alt="ProjectDigiLibrary" />
   </a>
 </div>
+
+### **Key Stuff**
+110+ Projects Completed
+Good at Three.js
+350+ hours spent on HTML
+300+ hours spent on JS
+97+ hours spent on Python
+10+ hours spent on Chrome Extension
+54+ hours spent on React Native
+2+ hours spent on Terraform & AWS
+100+ hours spent on Firebase
+GitHub Copilot Beta Tester
+I am a github Student
+I have won TOI WORLDCODINGBEE SEASON 1 AND 2
