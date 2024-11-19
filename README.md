@@ -123,15 +123,15 @@ I am a **passionate technologist** with a proven track record of **innovation an
 </div>
 
 ### **Key Stuff**
-110+ Projects Completed
-Good at Three.js
-350+ hours spent on HTML
-300+ hours spent on JS
-97+ hours spent on Python
-10+ hours spent on Chrome Extension
-54+ hours spent on React Native
-2+ hours spent on Terraform & AWS
-100+ hours spent on Firebase
-GitHub Copilot Beta Tester
-I am a github Student
-I have won TOI WORLDCODINGBEE SEASON 1 AND 2
+110+ Projects Completed<br/>
+Good at Three.js<br/>
+350+ hours spent on HTML<br/>
+300+ hours spent on JS<br/>
+97+ hours spent on Python<br/>
+10+ hours spent on Chrome Extension<br/>
+54+ hours spent on React Native<br/>
+2+ hours spent on Terraform & AWS<br/>
+100+ hours spent on Firebase<br/>
+GitHub Copilot Beta Tester<br/>
+I am a github Student<br/>
+I have won TOI WORLDCODINGBEE SEASON 1 AND 2<br/>
